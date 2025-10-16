@@ -1,4 +1,4 @@
-# [csv2json](https://github.com/tarsislimadev/csv2json)
+# [@tarsislimadev/csv2json](https://github.com/tarsislimadev/csv2json)
 
 A simple and efficient tool to convert CSV files to JSON format.
 
@@ -6,12 +6,12 @@ A simple and efficient tool to convert CSV files to JSON format.
 
 ### Using NPX (Recommended)
 ```bash
-npx csv2json input.csv output.json
+npx @tarsislimadev/csv2json input.csv output.json
 ```
 
 ### Using NPM
 ```bash
-npm install -g csv2json
+npm install -g @tarsislimadev/csv2json
 csv2json input.csv output.json
 ```
 
@@ -50,7 +50,7 @@ csv2json data.csv output.json
 
 Using NPX without installation:
 ```bash
-npx csv2json sales.csv sales.json
+npx @tarsislimadev/csv2json sales.csv sales.json
 ```
 
 ## Input Format

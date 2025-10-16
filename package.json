@@ -1,5 +1,5 @@
 {
-  "name": "csv2json",
+  "name": "@tarsislimadev/csv2json",
   "version": "0.1.0",
   "description": "A simple and efficient tool to convert CSV files to JSON format",
   "main": "index.js",
