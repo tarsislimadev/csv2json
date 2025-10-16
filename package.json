@@ -1,0 +1,24 @@
+{
+  "name": "csv2json",
+  "version": "0.1.0",
+  "description": "A simple and efficient tool to convert CSV files to JSON format",
+  "main": "index.js",
+  "bin": {
+    "csv2json": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/csv2json.git"
+  },
+  "author": "tarsislimadev",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "convert": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/csv2json/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/csv2json#readme"
+}
